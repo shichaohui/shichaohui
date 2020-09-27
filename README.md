@@ -1,4 +1,4 @@
-![Header](./images/header.png)
+[![Header](./images/header.png)](https://shichaohui.github.io)
 
 ### Welcome to my github 👋
 
