@@ -1,10 +1,6 @@
 ### Welcome to my github 👋
 
-I'm 石朝辉, an Android and front-end developer. [This is my homepage.](https://shichaohui.github.io)
-
-### My GitHub stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shichaohui&count_private=true&show_icons=true&&hide_title=true&include_all_commits=true&theme=tokyonight)
+I'm a developer who is passionate about Android and front-end. [This is my homepage.](https://shichaohui.github.io)
 
 ### What i'm good at
 
@@ -26,3 +22,7 @@ I'm 石朝辉, an Android and front-end developer. [This is my homepage.](https:
 ![Css3](https://img.shields.io/badge/css3-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![Python](https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%233776AB)
 
+### My GitHub stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shichaohui&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=tokyonight&&line_height=27)
+![My GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shichaohui&hide_title=true&theme=tokyonight&hide=JavaScript,Makefile)
