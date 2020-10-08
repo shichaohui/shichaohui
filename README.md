@@ -1,6 +1,6 @@
 [![Header](./images/header.png)](https://shichaohui.github.io)
 
-### Welcome to my github 👋
+### Welcome to my GitHub 👋
 
 I'm a developer who is passionate about Android and front-end. [This is my homepage.](https://shichaohui.github.io)
 
