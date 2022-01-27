@@ -41,7 +41,7 @@ I'm a developer who is passionate about Android and front-end. [This is my homep
 ### 🌟 My GitHub stats
 
 <div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=shichaohui&include_all_commits=true&hide_title=true&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shichaohui&langs_count=6&hide_title=true&layout=compact&theme=graywhite&bg_color=0,52fa5a,4dfcff,c64dff" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shichaohui&include_all_commits=true&hide_title=true&show_icons=true&theme=graywhite&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shichaohui&langs_count=6&hide_title=true&layout=compact&theme=graywhite&bg_color=0,52fa5a,4dfcff,c64dff" />
 </div>
 
