@@ -36,9 +36,9 @@ I'm a developer who is passionate about Android and front-end. [This is my homep
 ![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?&style=for-the-badge&logo=kotlin&logoColor=%230095D5)
 ![Dart](https://img.shields.io/badge/dart-%23323330.svg?&style=for-the-badge&logo=dart&logoColor=%230175C2)
 ![Python](https://img.shields.io/badge/python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%233776AB)
-![C/C++](https://img.shields.io/badge/c/c%2B%2B-%23323330.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=%233776AB)
+<!-- ![C/C++](https://img.shields.io/badge/c/c%2B%2B-%23323330.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=%233776AB) -->
 
 ### 🌟 My GitHub stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shichaohui&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=great-gatsby&line_height=20&border_radius=0&bg_color=0,414345,232526,414345)
-![My GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shichaohui&hide_title=true&langs_count=6&layout=compact&theme=great-gatsby&border_radius=0&bg_color=0,414345,232526,414345)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shichaohui&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=great-gatsby&line_height=20&border_radius=0&hide_border=true&bg_color=0,414345,232526,414345)
+![My GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shichaohui&hide_title=true&langs_count=6&layout=compact&theme=great-gatsby&border_radius=0&hide_border=true&bg_color=0,414345,232526,414345)
