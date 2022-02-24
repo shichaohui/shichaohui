@@ -8,6 +8,7 @@
 ![Age](https://img.shields.io/badge/Age-29-brightgreen)
 ![Work Years](https://img.shields.io/badge/Work%20Years-7-brightgreen)
 ![Mail](https://img.shields.io/badge/Mail-464206200@qq.com-brightgreen)
+![WeChat](https://img.shields.io/badge/WeChat-StoneHui__-brightgreen)
 
 ### 👋 Welcome to my GitHub
 
