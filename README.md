@@ -5,8 +5,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shichaohui&color=brightgreen&label=Profile%20Views)
 ![Nickname](https://img.shields.io/badge/Nickname-StoneHui-brightgreen)
 ![Gender](https://img.shields.io/badge/Gender-Male-brightgreen)
-![Age](https://img.shields.io/badge/Age-30-brightgreen)
-![Work Years](https://img.shields.io/badge/Work%20Years-8-brightgreen)
+![Age](https://img.shields.io/badge/Age-33-brightgreen)
+![Work Years](https://img.shields.io/badge/Work%20Years-11-brightgreen)
 ![Mail](https://img.shields.io/badge/Mail-464206200@qq.com-brightgreen)
 ![WeChat](https://img.shields.io/badge/WeChat-StoneHui__-brightgreen)
 
